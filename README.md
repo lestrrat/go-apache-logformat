@@ -7,6 +7,10 @@ go-apache-logformat
 
 [![Coverage Status](https://coveralls.io/repos/lestrrat/go-apache-logformat/badge.png?branch=topic%2Fgoveralls)](https://coveralls.io/r/lestrrat/go-apache-logformat?branch=topic%2Fgoveralls)
 
+# WARNING
+
+This repository has been moved to [github.com/lestrrat-go/apache-logformat](https://github.com/lestrrat-go/apache-logformat). This repository exists so that libraries pointing to this URL will keep functioning, but this repository will NOT be updated in the future. Please use the new import path.
+
 # SYNOPSYS
 
 ```go
